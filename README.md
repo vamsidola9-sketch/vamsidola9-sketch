@@ -44,8 +44,8 @@ Every small contribution motivates me to keep improving and sharing my coding jo
 ## 📫 Connect with Me  
 
 - 💬 Ask me about *C programming* or beginner coding tips  
-- 🌍 [GitHub Profile](https://github.com/vamsidola-sketch)  
-- 💖 [Sponsor Link](https://github.com/sponsors/vamsidola-sketch)  
+- 🌍 [GitHub Profile](https://github.com/vamsidola9-sketch)  
+- 💖 [Sponsor Link](https://github.com/sponsors/vamsidola9-sketch)  
 ⭐ *Follow me* to get updates whenever I post a new program!  
 Thanks for visiting my profile! 😊
 
