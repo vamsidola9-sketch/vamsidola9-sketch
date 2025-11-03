@@ -28,7 +28,7 @@ Here are some of my beginner-friendly projects 👇
 
 If my projects helped you learn something new, you can support me to create even more beginner-friendly content 🙏  
 
-👉 **[Sponsor me on GitHub](https://github.com/sponsors/vamsidola-sketch)**  
+👉 **[Sponsor me on GitHub](https://github.com/sponsors/vamsidola9-sketch)**  
 Every small contribution motivates me to keep improving and sharing my coding journey 💻  
 
 ---
