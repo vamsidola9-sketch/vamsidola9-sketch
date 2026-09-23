@@ -1,54 +1,29 @@
-# 👋 Hi, I'm Vamsi Dola  
+# 👋 Hi, I'm Vamsi Dola
 
-🎯 *Beginner C Programmer | Open Source Learner | Sharing Simple & Useful Programs*
+ **B.Tech Student & Aspiring AI Product Engineer** 
 
-I’m passionate about learning programming and helping beginners understand C language easily.  
-Here on my GitHub, I upload small but powerful programs with clear logic and comments.  
-
----
-
-## 🔢 My C Programming Projects  
-
-Here are some of my beginner-friendly projects 👇  
-
-- 🔁 [Reversed Number in C](#)  
-- ➕ [Sum of Digits](#)  
- 🔄 [Palindrome Number](#)  
-- 🧮 [Armstrong Number](#)  
-- 💡 [Factorial (Using Loop & Recursion)](#)  
-- 🧠 [Prime Number Checker](#)  
-- 🌀 [Fibonacci Series](#)  
-- 🔺 [Pattern Printing Programs](#)  
-
-(I’ll keep adding more every week!)  
+I am passionate about building modern web applications, optimizing systems architecture, and integrating intelligent AI services to solve real-world problems. Currently documenting my development journey through high-intensity building sprints.
 
 ---
 
-## 💖 Support My Work  
+### 🏆 Featured Production Projects
 
-If my projects helped you learn something new, you can support me to create even more beginner-friendly content 🙏  
-
-👉 **[Sponsor me on GitHub](https://github.com/sponsors/vamsidola9-sketch)**  
-Every small contribution motivates me to keep improving and sharing my coding journey 💻  
-
----
-
-## 🌱 Currently Learning  
-
-- Advanced C concepts  
-- Data structures and algorithms  
-- Exploring open-source contribution  
+#1 💰 Advanced Expense Tracker
+- **Description:** A high-performance personal finance dashboard featuring zero-latency state-driven filters and local data persistence.
+- **Tech Stack:** React, Vite, TypeScript, Tailwind CSS
+- **Architecture:** Client-side state synchronization with HTML5 LocalStorage, automated CI/CD pipeline via Vercel.
 
 ---
 
-## 📫 Connect with Me  
+#2 🛠️ Technical Skill Stack
+- **Frontend Development:** HTML5, CSS3, JavaScript (ES6+), React, TypeScript
+- **Systems & Automation:** Git Architecture, CI/CD Pipelines, Vercel
+- **Core Engineering Foundations:** Data Structures, Logic Optimization (C Language Foundations)
 
-- 💬 Ask me about *C programming* or beginner coding tips  
-- 🌍 [GitHub Profile](https://github.com/vamsidola9-sketch)  
-- 💖 [Sponsor Link](https://github.com/sponsors/vamsidola9-sketch)  
-⭐ *Follow me* to get updates whenever I post a new program!  
-Thanks for visiting my profile! 😊
+---
 
-
+#3 📈 Current Learning Focus
+- Designing prompt architectures and structured JSON parsing layouts using the **Google Gemini API**.
+- Building full-stack state management systems for scalability.
 
 
